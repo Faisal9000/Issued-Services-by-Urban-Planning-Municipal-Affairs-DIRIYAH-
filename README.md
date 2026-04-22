@@ -33,5 +33,5 @@
 <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/eb91bdbd-e5cb-47cf-879f-66ba0fcc37aa" />
 
 مصدر البيانات:
-تجدون البيانات الخاصة بالتخطيط الحضري والشؤون البلدية
+تجدون البيانات الخاصة بالتخطيط الحضري والشؤون البلدية لمنطقة تطوير الدرعية 
 https://open.data.gov.sa/ar/datasets/view/e1b59753-592a-4627-be62-b66f7b2ef863
