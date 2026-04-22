@@ -4,6 +4,7 @@
 سجلت فئات الثقافة، الحياة والعمل، وتجزئة نمط الحياة نموًا متوازنًا لدعم الحيوية الحضرية وجودة التجربة.
 ظل التطور في المرافق المجتمعية ومواقف السيارات داعمًا للأنشطة الأساسية ومتوافقًا مع مراحل التطوير.
 تعكس التوزيعات الإجمالية للخدمات مواءمة واضحة مع مستهدفات التطوير المرحلي ورؤية المشروع طويلة المدى.
+<img width="947" height="630" alt="image" src="https://github.com/user-attachments/assets/753ed192-b7bb-4f08-9fc9-b9b6ecefa307" />
 
 
 المرافق المجتمعية: شهدت المرافق المجتمعية نموًا تدريجيًا من 2020 إلى 2024 مع توسّع نطاق المشاريع لتحسين جودة الحياة وخدمة السكان.
@@ -23,6 +24,7 @@
 <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/43d372b3-95c9-44e6-aee3-bf4d29147dbd" />
 <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/1db07fd8-f0d7-4f17-bd4b-292cb5b09b32" />
 <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/aae7ab01-742d-4045-a65d-96f692ce9684" />
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/16986001-8185-49ca-ace8-a472ee103e9e" />
 
 
 يستعرض هذا التحليل مستوى أداء كل قطاع على حدة.
