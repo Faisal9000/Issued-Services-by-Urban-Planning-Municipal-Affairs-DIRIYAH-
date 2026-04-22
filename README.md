@@ -17,18 +17,19 @@
 الحياة والعمل: تطورت فئة الحياة والعمل تدريجيًا خلال الفترة مع تبني مفاهيم الاستخدام المختلط ودعم بيئات العمل المرنة.
 مواقف السيارات: تحسنت مرافق مواقف السيارات من 2020 إلى 2024 بالتوازي مع زيادة كثافة التطوير ورفع كفاءة الوصول والخدمة.
 
-<img width="293" height="89" alt="image" src="https://github.com/user-attachments/assets/896cb8c0-4233-4e7d-aa95-ea7977fe48d1" />
-<img width="754" height="458" alt="image" src="https://github.com/user-attachments/assets/0bcb908f-5781-476b-a366-8f9b2d204581" />
-<img width="752" height="452" alt="image" src="https://github.com/user-attachments/assets/d0215ca7-9d97-417f-8e05-5b05c616c54e" />
-<img width="752" height="452" alt="image" src="https://github.com/user-attachments/assets/d4ac4281-0c23-406b-b7b8-d20600eb32b5" />
-<img width="752" height="452" alt="image" src="https://github.com/user-attachments/assets/44c186a9-56a5-4c7a-b835-b4ba8debf42e" />
-<img width="752" height="452" alt="image" src="https://github.com/user-attachments/assets/91f88463-369d-485d-828e-8b2bf1c065bc" />
+يستعرض هذا التحليل مستوى أداء القطاعات خلال الفترة من عام 2020 وحتى عام 2024
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/dffd9d37-a1a1-4e58-abdf-5fa80bb216ec" />
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/3bbdd5cb-f8db-49cd-9990-29cddab7f5c0" />
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/43d372b3-95c9-44e6-aee3-bf4d29147dbd" />
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/1db07fd8-f0d7-4f17-bd4b-292cb5b09b32" />
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/aae7ab01-742d-4045-a65d-96f692ce9684" />
 
 
+يستعرض هذا التحليل مستوى أداء كل قطاع على حدة.
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/fedcda92-e914-4c64-98f0-2ae8ae163ed6" />
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/500ef8d9-6d47-4cd0-8996-9831ec507473" />
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/eb91bdbd-e5cb-47cf-879f-66ba0fcc37aa" />
 
-
-
-<img width="1280" height="720" alt="Slide1" src="https://github.com/user-attachments/assets/78875f86-48cd-4003-ac33-65c6c3f4d58e" />
-<img width="664" height="47" alt="image" src="https://github.com/user-attachments/assets/92151e94-a26e-41fd-9cf9-7d5788848b22" />
-
-<img width="1280" height="720" alt="Slide2" src="https://github.com/user-attachments/assets/37a9679f-a05d-4baf-9a01-70723fa745fb" />
+مصدر البيانات:
+تجدون البيانات الخاصة بالتخطيط الحضري والشؤون البلدية
+https://open.data.gov.sa/ar/datasets/view/e1b59753-592a-4627-be62-b66f7b2ef863
