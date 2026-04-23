@@ -25,6 +25,7 @@
 <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/8c4612dc-41b6-4da8-98d8-c601f15d560c" />
 <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/baa09d85-da6a-40b8-ac06-d484b48bcdbf" />
 
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/49d6d1bf-5604-4697-a798-50e1e6af244c" />
 
 
 يستعرض هذا التحليل مستوى أداء كل قطاع على حدة.
