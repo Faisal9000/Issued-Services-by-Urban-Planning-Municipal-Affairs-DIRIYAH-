@@ -19,12 +19,12 @@
 مواقف السيارات: تحسنت مرافق مواقف السيارات من 2020 إلى 2024 بالتوازي مع زيادة كثافة التطوير ورفع كفاءة الوصول والخدمة.
 
 يستعرض هذا التحليل مستوى أداء القطاعات خلال الفترة من عام 2020 وحتى عام 2024 ويساعد هذا التقرير على فهم التوجه الحقيقي للمشاريع مما يساعد في تنبؤ القطاعات الأكثر استفادة مستقبلاً ويزيد من فرص التعاون الاستراتيجي والفعال.  
-<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/dffd9d37-a1a1-4e58-abdf-5fa80bb216ec" />
-<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/3bbdd5cb-f8db-49cd-9990-29cddab7f5c0" />
-<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/43d372b3-95c9-44e6-aee3-bf4d29147dbd" />
-<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/1db07fd8-f0d7-4f17-bd4b-292cb5b09b32" />
-<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/aae7ab01-742d-4045-a65d-96f692ce9684" />
-<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/16986001-8185-49ca-ace8-a472ee103e9e" />
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/70cc233d-279a-409d-8ad0-c52a01d2576b" />
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/eac82dac-5a20-4499-964f-d9103416f2da" />
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/68856ec4-9a95-4704-8fee-b990a9df18d7" />
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/8c4612dc-41b6-4da8-98d8-c601f15d560c" />
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/baa09d85-da6a-40b8-ac06-d484b48bcdbf" />
+
 
 
 يستعرض هذا التحليل مستوى أداء كل قطاع على حدة.
